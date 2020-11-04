@@ -1,7 +1,6 @@
 package sptvr19.laabe.kitchenshop.tools;
 
 import entity.Person;
-import entity.Product;
 import java.util.List;
 import java.util.Scanner;
 
